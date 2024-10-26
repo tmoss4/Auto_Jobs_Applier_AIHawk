@@ -239,16 +239,11 @@ This comprehensive overview will serve as a guideline for the recruitment proces
 # Job Description Summary"""
 
 coverletter_template = """
-Compose a brief and impactful cover letter based on the provided job description and resume. The letter should includ my name and the role that I'm applying for at the top. The body of the cover letter should be no longer than three paragraphs and should be written in a professional, yet conversational tone. Avoid using any placeholders, and ensure that the letter flows naturally and is tailored to the job.
+Compose an  impactful, one-page cover letter based on the provided job description and resume. The letter should include my name and the role that I'm applying for at the top. The body of the cover letter should be no longer than 4 paragraphs and should be written in a professional, yet conversational tone. Avoid using any placeholders, and ensure that the letter flows naturally and is tailored to the job.
 
-Analyze the job description to identify key qualifications and requirements. Introduce the candidate succinctly, aligning their career objectives with the role. Highlight relevant skills and experiences from the resume that directly match the job’s demands, using specific examples to illustrate these qualifications. Reference notable aspects of the company, such as its mission or values, that resonate with the candidate’s professional goals. Conclude with a strong statement of why the candidate is a good fit for the position, expressing a desire to discuss further.
+Analyze the job description to identify key qualifications and requirements. Introduce me as a candidate succinctly, aligning my career objectives with the role. Highlight relevant skills and experiences from the resume that directly match the job’s demands, using specific examples to illustrate these qualifications. Reference notable aspects of the company, such as its mission or values, that resonate with the candidate’s professional goals. Conclude with a strong statement of why the candidate is a good fit for the position, expressing a desire to discuss further.
 
-Please write the cover letter in a way that directly addresses the job role and the company’s characteristics, ensuring it remains concise and engaging without unnecessary embellishments. The letter should be formatted into paragraphs and should not include a greeting or signature.
-
-## Rules:
-- Provide only the text of the cover letter.
-- Do not include any introductions, explanations, or additional information.
-- The letter should be formatted into paragraph.
+Please write the cover letter in a way that directly addresses the job role and the company’s characteristics, ensuring it remains concise and engaging without unnecessary embellishments. The letter should be formatted into paragraphs.
 
 ## Job Description:
 ```
