@@ -62,7 +62,7 @@ experience_details:
       - "[Skill]"
       - "[Skill]"
 
-    - position: "Product Manager"
+  - position: "Product Manager"
     company: "ComScore"
     employment_period: "04/2017 - 09/2018"
     location: "Reston, Virgina, USA"
@@ -77,7 +77,7 @@ experience_details:
       - "[Skill]"
       - "[Skill]"
 
-    - position: "Product Analyst"
+  - position: "Product Analyst"
     company: "Videology"
     employment_period: "06/2016 - 02/2017"
     location: "Baltimore, Maryland, USA"
