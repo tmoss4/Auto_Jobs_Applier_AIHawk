@@ -2,52 +2,92 @@ remote: true
 
 experienceLevel:
   internship: false
-  entry: true
-  associate: true
+  entry: false
+  associate: false
   mid-senior level: true
-  director: false
-  executive: false
+  director: true
+  executive: true
 
 jobTypes:
   full-time: true
-  contract: false
+  contract: true
   part-time: false
-  temporary: true
+  temporary: false
   internship: false
   other: false
-  volunteer: true
+  volunteer: false
 
 date:
   all time: false
-  month: false
-  week: false
+  month: true
+  week: true
   24 hours: true
 
 positions:
-  - Software engineer
+  - AI Manager
 
 locations:
-  - Germany
+  - London
 
-apply_once_at_company: true
+apply_once_at_company: false
 
-distance: 100
+distance: 50
 
 company_blacklist:
-  - wayfair
-  - Crossover
+  - Accenture
+  - BCG
+  - BenchSci
+  - Deloitte
+  - EY
+  - FlutterFlow
+  - IQVIA
+  - Loblaw
+  - MNP
+  - PWC
+  - Santis Health
+  - Shoppers Drug Mart
 
 title_blacklist:
-  - word1
-  - word2
-
-location_blacklist:
-  - Brazil
+  - analyst
+  - technician
+  - software
+  - specialist
+  - sales
+  - architect
+  - engineer
+  - developer
+  - teacher
+  - therapist
+  - veterinarian
+  - pathologist
+  - optometrist
+  - accountant
+  - realtor
+  - construction
+  - restaurant
+  - kitchen
+  - dental
+  -  nursing
+  - nurse
+  - cook
+  - attorney
+  - psychiatrist
+  - physician
+  - intern
+  - EY
+  - KPMG
+  - PWC
+  - Deloitte
+  - Accenture
+  - PSW
+  - compliance
+  - legal
+  - security
 
 job_applicants_threshold:
   min_applicants: 0
-  max_applicants: 30
+  max_applicants: 300
 
-llm_model_type: openai
-llm_model: 'gpt-4o-mini'
+llm_model_type: gemini
+llm_model: 'gemini-pro'
 # llm_api_url: 'https://api.pawan.krd/cosmosrp/v1'
